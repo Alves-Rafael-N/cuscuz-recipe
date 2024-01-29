@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+    color: #43766C;
+    margin-bottom: 5rem;
+}
+ol{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    padding: 0;
+}
+img{
+    width: 615px;
+    max-width: 615px;
+    margin-top: 0.5rem;
+}
